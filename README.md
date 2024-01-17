@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmeraldZhu
 - 👀 I’m a Software Engineer
-- 🌱 I’m currently learning CS50x 2023 and ALX
+- 🌱 I’m currently learning CS50x 2024 and ALX SE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @zhuemerald@gmail.com and @https://www.instagram.com/emeraldzhu/
 
