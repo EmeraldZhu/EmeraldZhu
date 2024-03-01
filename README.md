@@ -2,6 +2,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emeraldzhu" alt="emeraldzhu" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/emeraldzhu" target="blank"><img src="https://img.shields.io/twitter/follow/emeraldzhu?logo=twitter&style=for-the-badge" alt="emeraldzhu" /></a> </p>
+
 - 🔭 I’m currently working on [4J-tms](https://github.com/EmeraldZhu/4J-tms)
 
 - 🌱 I’m currently learning **Vue.js**
@@ -14,6 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/emeraldzhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emeraldzhu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/justusnzioki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justusnzioki" height="30" width="40" /></a>
+<a href="https://instagram.com/emeraldzhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emeraldzhu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/emerald zhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emerald zhu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emeraldzhu&show_icons=true&locale=en&layout=compact" alt="emeraldzhu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emeraldzhu&show_icons=true&locale=en" alt="emeraldzhu" /></p>
+
 
 
 <!---
