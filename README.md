@@ -8,9 +8,6 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👯 I’m looking to collaborate on [cinema-concert-app](https://github.com/EmeraldZhu/cinema-concert-app)
-
-- 🤝 I’m looking for help with [cinema-concert-app](https://github.com/EmeraldZhu/cinema-concert-app)
 
 - 📫 How to reach me **zhuemerald@gmail.com**
 
