@@ -28,11 +28,11 @@
 
 ### 📊 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmeraldZhu&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="EmeraldZhu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EmeraldZhu&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&v=1" alt="EmeraldZhu's GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmeraldZhu&layout=compact&theme=dark&hide_border=true" alt="EmeraldZhu's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmeraldZhu&layout=compact&theme=dark&hide_border=true&v=1" alt="EmeraldZhu's Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmeraldZhu&theme=dark&hide_border=true" alt="EmeraldZhu's Commit Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmeraldZhu&theme=dark&hide_border=true&v=1" alt="EmeraldZhu's Commit Streak" />
 </div>
 
 <br>
