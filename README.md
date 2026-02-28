@@ -1,6 +1,10 @@
 <h3 align="center">JavaScript Developer | AI Engineer</h3>
 
-<p align="left"> <a href="https://x.com/emeraldzhu" target="blank"><img src="https://img.shields.io/twitter/follow/emeraldzhu?logo=twitter&style=for-the-badge" alt="emeraldzhu" /></a> </p>
+<p align="left"> 
+  <a href="https://x.com/emeraldzhu" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/emeraldzhu?logo=x&logoColor=white&style=for-the-badge&color=black" alt="emeraldzhu" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on [Session Switcher](https://sessionswitcher.emeraldzhu.com)
 
