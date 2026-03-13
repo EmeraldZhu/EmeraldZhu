@@ -13,7 +13,7 @@
 
 <br>
 
-- 🔭 Currently building **[Session Switcher](https://sessionswitcher.emeraldzhu.com)**
+- 🔭 Currently building **[YouTube Resume](https://youtuberesume.emeraldzhu.com/)**
 - 🌐 View my work and posts on **[Emerald Zhu](https://emeraldzhu.com)**
 - 📫 How to reach me: **[hello@emeraldzhu.com](mailto:hello@emeraldzhu.com)**
 
